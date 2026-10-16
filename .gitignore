@@ -1,0 +1,9 @@
+# Visual Studio / ビルドで作られるもの
+.vs/
+bin/
+obj/
+*.user
+Library/
+
+# UI
+KeyRepeatFix/UI/node_modules/
