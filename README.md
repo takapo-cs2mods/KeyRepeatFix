@@ -4,6 +4,8 @@ A Cities: Skylines II mod that fixes key input bugs in in-game text fields, espe
 A temporary patch until the game itself is fixed.
 
 Source: https://github.com/takapo-cs2mods/KeyRepeatFix
+Paradox Mods: https://mods.paradoxplaza.com/mods/163457/Windows
+Forum: https://forum.paradoxplaza.com/forum/threads/key-repeat-fix-backspace-ime.1945888/
 
 [English](#english) / [日本語](#日本語)
 
@@ -44,7 +46,7 @@ I can't write code. But this bug kept bothering me and no official fix came, so 
 All source code is public on GitHub (GPL v3), so anyone can check exactly what it does. Forks, better fixes, and using this to report the bug to the developers are all very welcome.
 
 **Bug reports**
-Please use the comments or GitHub Issues.
+Please post in the forum thread (https://forum.paradoxplaza.com/forum/threads/key-repeat-fix-backspace-ime.1945888/) or open a GitHub Issue.
 
 ## 日本語
 
@@ -83,7 +85,7 @@ Please use the comments or GitHub Issues.
 ソースコードは全部 GitHub で公開しています(GPL v3)。何をしているかは誰でも確認できます。改造も、もっといい直し方の提案も、これを使った公式への報告も大歓迎です。
 
 **不具合の報告**
-コメント欄か、GitHub の Issue へどうぞ。
+フォーラムのスレッド(https://forum.paradoxplaza.com/forum/threads/key-repeat-fix-backspace-ime.1945888/)か、GitHub の Issue へどうぞ。
 
 ## For developers / 開発者向け
 
