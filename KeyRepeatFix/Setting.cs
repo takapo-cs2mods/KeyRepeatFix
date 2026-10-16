@@ -18,7 +18,7 @@ namespace KeyRepeatFix
     public class Setting : ModSetting
     {
         // ビルドごとに更新する(ゲーム内でどのビルドが読み込まれたか見分けるため)
-        public const string kVersion = "v1.0";
+        public const string kVersion = "v1.0.1";
 
         public const string kSection = "Main";
         public const string kAboutGroup = "About";
